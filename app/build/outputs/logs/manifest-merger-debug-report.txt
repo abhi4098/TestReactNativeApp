@@ -1,0 +1,280 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [:react-native-immediate-phone-call] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-immediate-phone-call\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-android-sms-listener] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-android-sms-listener\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-linear-gradient] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\c8e98e5ba1d1b0fd9531341287045a6a\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-maps] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\4f73365853cfd042cd84763a733668a0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\4653227b0b038e432ef1af42be7e19d7\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\bdcb14c35ae7f59b0b7ad8627d64e7b5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\69b331b3f38123c705d33db01b50a758\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3784c83826e5761423ff1cba037ad0f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\c3b5b787cf497d4b7c8d5adf1e8b6b5d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2b6385a5ff3cc6e0ec243a2a73c43a18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b8dfd775df24d8df3423d696a1fbfa93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f749a669620df8820e14cb51cea2620\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b1b40ac912eef1f9e8637d5da3d67c4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\26eab730f8238e749d40b3cf87095e0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\290aa5bceedad5f7abeb2e644f5721b5\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\5658bd5f37160d814941b3a78a5c809e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\c7c6c0498590a4fe43601f4afc40c318\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\35834b3dd646b14532418b0bdebea9db\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\d03834ffc3f6c2be24ce7aca64b4e2c7\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\ee8567bc112a7240368e763cd059be74\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\a74b85c9ea84ddde17358c935f258edc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\6e2573a7d42094ef6e8cb97fe88b29e0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\3e9670f9d8a9080451a3217e068dd8c9\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\978293dedd813ecfdebeba68379987c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e1437a57bb2054d9ae806ed7bdd2d6a4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3c302589c98003dfa8fe97641ec0e4f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c6f446fc4011ac7bac244880fcf17cc5\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:2:5-28
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\c8e98e5ba1d1b0fd9531341287045a6a\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\c8e98e5ba1d1b0fd9531341287045a6a\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:7:5-70
+MERGED from [:react-native-android-sms-listener] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-android-sms-listener\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-70
+MERGED from [:react-native-android-sms-listener] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-android-sms-listener\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:7:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:9:22-66
+application
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:11:5-34:19
+MERGED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\c8e98e5ba1d1b0fd9531341287045a6a\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\c8e98e5ba1d1b0fd9531341287045a6a\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\4f73365853cfd042cd84763a733668a0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\4f73365853cfd042cd84763a733668a0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\4653227b0b038e432ef1af42be7e19d7\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\4653227b0b038e432ef1af42be7e19d7\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\bdcb14c35ae7f59b0b7ad8627d64e7b5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\bdcb14c35ae7f59b0b7ad8627d64e7b5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\c3b5b787cf497d4b7c8d5adf1e8b6b5d\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\c3b5b787cf497d4b7c8d5adf1e8b6b5d\AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\35834b3dd646b14532418b0bdebea9db\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\35834b3dd646b14532418b0bdebea9db\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\d03834ffc3f6c2be24ce7aca64b4e2c7\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\d03834ffc3f6c2be24ce7aca64b4e2c7\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:14:7-38
+	android:allowBackup
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:12:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:18:8-20:64
+	android:value
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:20:7-62
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:19:7-52
+activity#com.nboxitapp.MainActivity
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:22:7-31:18
+	android:label
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:24:9-41
+	android:windowSoftInputMode
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:26:9-51
+	android:configChanges
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:23:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:27:9-30:25
+action#android.intent.action.MAIN
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:29:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:32:7-33:13
+	android:name
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:32:17-81
+uses-sdk
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-immediate-phone-call] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-immediate-phone-call\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immediate-phone-call] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-immediate-phone-call\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-sms-listener] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-android-sms-listener\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-sms-listener] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-android-sms-listener\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\c8e98e5ba1d1b0fd9531341287045a6a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\c8e98e5ba1d1b0fd9531341287045a6a\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\4f73365853cfd042cd84763a733668a0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\4f73365853cfd042cd84763a733668a0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\4653227b0b038e432ef1af42be7e19d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\4653227b0b038e432ef1af42be7e19d7\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\bdcb14c35ae7f59b0b7ad8627d64e7b5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\bdcb14c35ae7f59b0b7ad8627d64e7b5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\69b331b3f38123c705d33db01b50a758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\69b331b3f38123c705d33db01b50a758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3784c83826e5761423ff1cba037ad0f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3784c83826e5761423ff1cba037ad0f3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\c3b5b787cf497d4b7c8d5adf1e8b6b5d\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\c3b5b787cf497d4b7c8d5adf1e8b6b5d\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2b6385a5ff3cc6e0ec243a2a73c43a18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2b6385a5ff3cc6e0ec243a2a73c43a18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b8dfd775df24d8df3423d696a1fbfa93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b8dfd775df24d8df3423d696a1fbfa93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f749a669620df8820e14cb51cea2620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f749a669620df8820e14cb51cea2620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b1b40ac912eef1f9e8637d5da3d67c4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b1b40ac912eef1f9e8637d5da3d67c4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\26eab730f8238e749d40b3cf87095e0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\26eab730f8238e749d40b3cf87095e0a\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\290aa5bceedad5f7abeb2e644f5721b5\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\290aa5bceedad5f7abeb2e644f5721b5\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\5658bd5f37160d814941b3a78a5c809e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\5658bd5f37160d814941b3a78a5c809e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\c7c6c0498590a4fe43601f4afc40c318\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\c7c6c0498590a4fe43601f4afc40c318\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\35834b3dd646b14532418b0bdebea9db\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\35834b3dd646b14532418b0bdebea9db\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\ee8567bc112a7240368e763cd059be74\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\ee8567bc112a7240368e763cd059be74\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\a74b85c9ea84ddde17358c935f258edc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\a74b85c9ea84ddde17358c935f258edc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\6e2573a7d42094ef6e8cb97fe88b29e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\6e2573a7d42094ef6e8cb97fe88b29e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\3e9670f9d8a9080451a3217e068dd8c9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\3e9670f9d8a9080451a3217e068dd8c9\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\978293dedd813ecfdebeba68379987c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\978293dedd813ecfdebeba68379987c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e1437a57bb2054d9ae806ed7bdd2d6a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e1437a57bb2054d9ae806ed7bdd2d6a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3c302589c98003dfa8fe97641ec0e4f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3c302589c98003dfa8fe97641ec0e4f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c6f446fc4011ac7bac244880fcf17cc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c6f446fc4011ac7bac244880fcf17cc5\AndroidManifest.xml:20:5-44
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\a46f3813ac756b4214245a133a50e001\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\daa842fc61cf25ebe08a6c85a048d09c\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\4653227b0b038e432ef1af42be7e19d7\AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\c3b5b787cf497d4b7c8d5adf1e8b6b5d\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\c3b5b787cf497d4b7c8d5adf1e8b6b5d\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\4653227b0b038e432ef1af42be7e19d7\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\4653227b0b038e432ef1af42be7e19d7\AndroidManifest.xml:20:20-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\83ideasProjects\ReactNativeProjects\Nboxit\Code\NboxitApp\android\app\src\main\AndroidManifest.xml:1:1-36:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
